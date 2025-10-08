@@ -1,4 +1,4 @@
-# Student Management REST API 🎓
+# Student Management REST API  Spring Boot
 
 This is a **Spring Boot** application that implements a RESTful API for managing student and school data, leveraging **Spring Data JPA** for robust and simplified data persistence.
 
@@ -122,6 +122,7 @@ Tests cover critical features:
     Controller Testing: Testing REST endpoints to ensure proper request handling, response status codes, and JSON serialization/deserialization.
 
     Validation Testing: Verifying that the custom exception handling for @Valid annotations works correctly.
+
 
 
 
